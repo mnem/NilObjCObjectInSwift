@@ -1,4 +1,4 @@
-# Unexpect nil obj-c objects in Swift
+# Unexpected nil obj-c objects in Swift
 
 Little experiment to check the behaviour of objects that are unexpectedly `nil` 
 in Swift. For some reason I assumed there would be a runtime error, but it 
